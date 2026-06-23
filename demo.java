@@ -1,5 +1,7 @@
-public class demo {
+// Learning Git and GitHub
+
+public class Demo {
     public static void main(String[] args) {
-        System.out.println("Hello, Chandru...!");
+        System.out.println("Hello");
     }
 }
